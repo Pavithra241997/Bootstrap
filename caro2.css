@@ -1,0 +1,22 @@
+.bg-container{
+    background-image: url("https://hips.hearstapps.com/hmg-prod/images/gh-092221-baby-names-girls-1632326558.png");
+    background-size: cover;
+    height: 100vh;
+}
+.child-container{
+    background-color: cornflowerblue;
+    padding: 10px;
+    margin: 20px;
+
+}
+.image{
+    width: 80px;
+    height: 100px;
+}
+h1{
+    text-align: center;
+}
+.button{
+    float: right;
+    
+}

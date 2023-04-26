@@ -1,0 +1,36 @@
+.image1{
+    width: 200px;
+    height: 200px;
+}
+.bg-color{
+    background-color:powderblue;
+    border:2px solid powderblue;
+    border-radius: 35px;
+}
+.bg-color1{
+    background-color:  #3ebd93;
+    border-radius: 20px;
+    border: 2px solid  #3ebd93 ;
+    margin-left: 25px;
+}
+.bg-color2{
+    background-color: #e668a7;
+    border-radius: 20px;
+    border: 2px solid  #e668a7;
+    margin-left: 25px;
+    
+
+}
+.bg-color3{
+    background-color: #a368fc;
+    border-radius: 20px;
+    border: 2px solid  #a368fc;
+    margin-left: 25px;
+}
+.bg-color4{
+    background-color: #a12d3919;
+}
+.image2{
+    width: 100px;
+    height: 100px;
+}
